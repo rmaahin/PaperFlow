@@ -11,4 +11,3 @@ Scientific Paper Analysis &amp; Code Generation Pipeline
 - MCP for agent coordination
 - Hybrid retrieval (dense + sparse)
 - vLLM for model serving
-- Vector DB (Qdrant/Chroma)
