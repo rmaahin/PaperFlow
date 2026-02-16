@@ -12,8 +12,3 @@ Scientific Paper Analysis &amp; Code Generation Pipeline
 - Hybrid retrieval (dense + sparse)
 - vLLM for model serving
 - Vector DB (Qdrant/Chroma)
-
-## Setup
-```bash
-docker run --gpus all -it sci-paper-pipeline:latest
-```
