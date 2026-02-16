@@ -205,3 +205,34 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data
+data/raw/
+data/processed/
+*.pkl
+*.h5
+*.hdf5
+
+# Models
+models/checkpoints/
+models/lora_adapters/
+*.bin
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+logs/
+*.log
