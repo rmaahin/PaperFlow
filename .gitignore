@@ -214,8 +214,8 @@ data/processed/
 *.hdf5
 
 # Models
-models/checkpoints/
-models/lora_adapters/
+# models/checkpoints/
+# models/lora_adapters/
 *.bin
 *.safetensors
 
@@ -236,3 +236,8 @@ models/lora_adapters/
 # Logs
 logs/
 *.log
+
+CLAUDE.md
+.claude/
+
+fine_tuning/
